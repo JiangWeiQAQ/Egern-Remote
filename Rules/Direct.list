@@ -1,0 +1,14 @@
+# ============================================
+# Egern - Custom DIRECT Rules
+# 手动指定必须直连的域名
+# ============================================
+
+# WeChat / QQ
+DOMAIN-SUFFIX,weixin.qq.com
+DOMAIN-SUFFIX,qq.com
+
+# CQUCAS
+DOMAIN,auth.cqucas.ac.cn
+
+# Douyin
+DOMAIN-SUFFIX,douyin.com
