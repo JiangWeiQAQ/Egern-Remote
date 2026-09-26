@@ -12,3 +12,7 @@ DOMAIN,auth.cqucas.ac.cn
 
 # Douyin
 DOMAIN-SUFFIX,douyin.com
+
+# 钱迹
+DOMAIN-SUFFIX,qianjiapp.com
+
