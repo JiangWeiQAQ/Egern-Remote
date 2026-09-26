@@ -1,0 +1,17 @@
+# ============================================
+# Egern - Custom PROXY Rules
+# 手动指定必须经过代理的域名
+# 当前对应：香港时延优选
+# ============================================
+
+# Custom GPT
+DOMAIN,gpt.jwcodex.cc.cd
+
+# MissAV
+DOMAIN-KEYWORD,missav
+
+# Haijiao
+DOMAIN-KEYWORD,haijiao
+
+# Spotify
+DOMAIN-SUFFIX,spotify.com
