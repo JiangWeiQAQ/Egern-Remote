@@ -1,0 +1,7 @@
+# ============================================
+# Egern - Custom REJECT Rules
+# 阻止指定域名连接
+# ============================================
+
+# 阻止特定软件通过 GitHub Codeload 偷跑流量
+DOMAIN-SUFFIX,codeload.github.com
